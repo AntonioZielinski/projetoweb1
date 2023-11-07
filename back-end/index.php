@@ -1,3 +1,3 @@
 <?php
-echo 'Olá PHP !';
-phpinfo();
+     echo'olá PHP!';
+     phpinfo();
